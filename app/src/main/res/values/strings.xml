@@ -1,4 +1,7 @@
 <resources>
+    <string name="Play">Play</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
     <string name="app_name">Rick and Morty Quiz</string>
     <string name="question_1">The Rick &amp; Morty That The Show Follows Are Originally From Dimension C-173</string>
     <string name="question_2">Jerry\'s Station Wagon Is Based On The Car From National Lampoon\'s Vacation?</string>
